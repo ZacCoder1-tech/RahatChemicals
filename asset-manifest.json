@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.17ca92e2.css",
-    "main.js": "/static/js/main.cdab67d9.js",
-    "static/js/453.59ca7d92.chunk.js": "/static/js/453.59ca7d92.chunk.js",
-    "static/media/img3.jpg": "/static/media/img3.9f0a0af8579225280980.jpg",
-    "index.html": "/index.html",
-    "main.17ca92e2.css.map": "/static/css/main.17ca92e2.css.map",
-    "main.cdab67d9.js.map": "/static/js/main.cdab67d9.js.map",
-    "453.59ca7d92.chunk.js.map": "/static/js/453.59ca7d92.chunk.js.map"
+    "main.css": "/RahatChemicals/static/css/main.17ca92e2.css",
+    "main.js": "/RahatChemicals/static/js/main.2fab091f.js",
+    "static/js/453.59ca7d92.chunk.js": "/RahatChemicals/static/js/453.59ca7d92.chunk.js",
+    "static/media/img3.jpg": "/RahatChemicals/static/media/img3.9f0a0af8579225280980.jpg",
+    "index.html": "/RahatChemicals/index.html",
+    "main.17ca92e2.css.map": "/RahatChemicals/static/css/main.17ca92e2.css.map",
+    "main.2fab091f.js.map": "/RahatChemicals/static/js/main.2fab091f.js.map",
+    "453.59ca7d92.chunk.js.map": "/RahatChemicals/static/js/453.59ca7d92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17ca92e2.css",
-    "static/js/main.cdab67d9.js"
+    "static/js/main.2fab091f.js"
   ]
 }
